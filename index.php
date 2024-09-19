@@ -52,9 +52,9 @@
     <?php require_once 'feature.php' ?>
     <!-- /Why Us Section -->
 
-    <!-- Services Section -->
-    <?php require_once 'portfolio.php' ?>
-    <!-- /Services Section -->
+    <!-- Team Section -->
+    <?php require_once 'proyek.php' ?>
+    <!-- /Team Section -->
 
     <!-- Call To Action Section -->
     <?php require_once 'call_action.php' ?>
@@ -65,16 +65,8 @@
     <!-- /Portfolio Section -->
 
     <!-- Team Section -->
-    <?php require_once 'team.php' ?>
+    <?php require_once 'keunggulan.php' ?>
     <!-- /Team Section -->
-
-    <!-- Pricing Section -->
-    <?php require_once 'paket.php' ?>
-    <!-- /Pricing Section -->
-
-    <!-- Testimonials Section -->
-    <?php require_once 'testimoni.php' ?>
-    <!-- /Testimonials Section -->
 
     <!-- Contact Section -->
     <?php require_once 'contact.php' ?>

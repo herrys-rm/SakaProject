@@ -37,12 +37,11 @@ if ($title_result->num_rows > 0) {
 
         <nav id="navmenu" class="navmenu">
             <ul>
-                <li><a href="#hero" class="active">Home</a></li>
-                <li><a href="#tentang">Tentang</a></li>
-                <li><a href="#portfolio">Portfolio</a></li>
-                <li><a href="#layanan">Layanan</a></li>
+                <li><a href="index.php" class="active">Home</a></li>
+                <li><a href="tentang.php">Tentang</a></li>
+                <li><a href="portofolio.php">Portfolio</a></li>
+                <li><a href="pesan.php">Paket Pemesanan</a></li>
                 <li><a href="#team">Team</a></li>
-                <li><a href="#paket">Paket</a></li>
                 <!-- <li class="dropdown"><a href="#"><span>Dropdown</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
                     <ul>
                         <li><a href="#">Dropdown 1</a></li>

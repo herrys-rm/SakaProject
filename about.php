@@ -24,7 +24,7 @@
                     kepada klien adalah tujuan kami sehingga memberikan kepuasan yang maksimal kepada klien. </p>
                 <ul>
                 </ul>
-                <a href="tentang.html" class="read-more"><span>Tentang</span><i class="bi bi-arrow-right"></i></a>
+                <a href="tentang.php" class="btn btn-success"><span>Tentang</span><i></i></a>
             </div>
         </div>
 
@@ -39,7 +39,7 @@
                     Indonesia.
                 </p>
 
-                <a href="tentang.html" class="read-more"><span>Selengkapnya</span><i class="bi bi-arrow-right"></i></a>
+                <a href="tentang.php" class="btn btn-success"><span>Selengkapnya</span><i class="bi bi-arrow-right"></i></a>
             </div>
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                 <div class="container">
