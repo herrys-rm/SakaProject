@@ -1,3 +1,10 @@
+<?php
+// Cegah akses langsung ke file ini
+if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
+    http_response_code(403);
+    exit('Akses langsung ke file ini tidak diizinkan.');
+}
+?>
 <section id="tentang" class="about section">
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
