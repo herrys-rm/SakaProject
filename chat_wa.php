@@ -16,26 +16,27 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h1 class="text-dark mb-5">
-                    contact Form
+                    Syaka Desain Konstruksi
                 </h1>
 
                 <form onsubmit="sendMessage()">
                     <div class="mb-3">
-                        <label for="name">Your Name</label>
+                        <label for="name">Nama</label>
                         <input type="text" id="name" palaceholder="Your Name" class="form-control shadow-none" required>
 
                     </div>
                     <div class="mb-3">
-                        <label for="email">Email Address</label>
+                        <label for="email">Email</label>
                         <input type="text" id="email" palaceholder="Email Address" class="form-control shadow-none" required>
 
                     </div>
                     <div class="mb-3">
-                        <label for="message">Your Message</label>
+                        <label for="message">Pesan Anda</label>
                         <textarea id="message" cols="30" rows="3" class="form-control shadow-none" required></textarea>
 
                     </div>
-                    <button class="btn btn-success px-4" type="submit">Send Message</button>
+                    <a href="index.php" class="btn btn-danger"><span>Kembali</span><i></i></a>
+                    <button class="btn btn-success px-4" type="submit">Kirim Pesan</button>
                 </form>
             </div>
         </div>
