@@ -2,6 +2,7 @@
 // Koneksi ke database
 require_once 'admin/config/connection.php';
 
+
 // Ambil logo terakhir dari tabel 'logo'
 $sql = "SELECT logo_image_path FROM logo ORDER BY id DESC LIMIT 1";
 $result = $conn->query($sql);
@@ -64,7 +65,7 @@ if ($title_result->num_rows > 0) {
             <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
 
-        <a class="btn-getstarted" href="#about">WhatsApp</a>
+        <a class="btn-getstarted" href="chat_wa.php">WhatsApp</a>
 
     </div>
 </header>
