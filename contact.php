@@ -88,7 +88,7 @@
                             <div class="error-message"></div>
                             <div class="sent-message">Your message has been sent. Thank you!</div>
 
-                            <button type="submit">Hubungi kami</button>
+                            <a class="btn-getstarted" href="https://wa.me/6282339299658?text=Halo!%20Saka Kontruksi, boleh saya konsultasi dulu?">Hubungi kami</a>
                         </div>
                     </div>
                 </form>
