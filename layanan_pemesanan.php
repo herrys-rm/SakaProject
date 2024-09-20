@@ -37,7 +37,7 @@
                         <li><i></i> <span> </span></li>
                         <li><i></i> <span> </span></li>
                     </ul>
-                    <center><a href="xxxx.html" class="buy-btn">Peesan sekarang</a></center>
+                    <center><a href="paket_basic.php" class="buy-btn">Peesan sekarang</a></center>
 
                 </div>
             </div><!-- End Pricing Item -->
@@ -65,7 +65,7 @@
                         <li><i></i> <span> </span></li>
                         <li><i></i> <span> </span></li>
                     </ul>
-                    <center><a href="xxxx.html" class="buy-btn">Peesan sekarang</a></center>
+                    <center><a href="paket_premium.php" class="buy-btn">Peesan sekarang</a></center>
                 </div>
             </div><!-- End Pricing Item -->
 
@@ -89,7 +89,7 @@
                         <li><i class="bi bi-check"></i> <span>Print Our Gambar Detai dan Desain </span></li>
                         <li><i class="bi bi-check"></i> <span>Fail PDF</span></li>
                     </ul>
-                    <center><a href="xxxx.html" class="buy-btn">Peesan sekarang</a></center>
+                    <center><a href="paket_gold.php" class="buy-btn">Peesan sekarang</a></center>
                 </div>
             </div><!-- End Pricing Item -->
 </section>

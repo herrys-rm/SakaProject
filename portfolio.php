@@ -3,14 +3,14 @@
 
      <!-- Section Title -->
      <div class="container section-title" data-aos="fade-up">
-         <h2>Portfolio</h2>
-         <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+         <h2>Portofolio</h2>
+         <p>Proyek Yang Pernah kami Tangani</p>
      </div><!-- End Section Title -->
 
      <div class="container">
          <div class="isotope-layout" data-default-filter="*" data-layout="masonry" data-sort="original-order">
              <ul class="portfolio-filters isotope-filters" data-aos="fade-up" data-aos-delay="100">
-                 <li data-filter="*" class="filter-active">Galeri Portfolio</li>
+                 <li data-filter="*" class="filter-active">Galeri Portofolio</li>
                  <!-- <li data-filter=".filter-app">Galeri Portfolio</li> -->
                  <!-- <li data-filter=".filter-product">Card</li>
                  <li data-filter=".filter-branding">Web</li> -->

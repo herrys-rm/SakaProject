@@ -46,7 +46,7 @@ if (basename($_SERVER['PHP_SELF']) == basename(__FILE__)) {
                     Indonesia.
                 </p>
 
-                <a href="tentang.php" class="btn btn-success"><span>Selengkapnya</span><i class="bi bi-arrow-right"></i></a>
+                <a href="portofolio.php" class="btn btn-success"><span>Selengkapnya</span><i class="bi bi-arrow-right"></i></a>
             </div>
             <div class="col-lg-6 content" data-aos="fade-up" data-aos-delay="200">
                 <div class="container">

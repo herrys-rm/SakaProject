@@ -61,12 +61,7 @@
 
                 </div>
                 <marquee>
-                    <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla
-                        pariatur.
-                        Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-                        id
-                        est
-                        laborum.</p>
+                    <p>Jika Anda ingin mengetahui lebih lanjut tentang perusahaan kami, silahkan scroll ke-bawah.</p>
                 </marquee>
 
             </div>
@@ -133,7 +128,7 @@
                     Kepuasan yang sesuai dengan keinginan anda adalah tujuan pelayanan kami, guna memberikan pelayanan dan
                     kualitas terbaik yang anda inginkan, dalam setiap pekerjaan selalu kami terapkan ketepatan waktu
                     penyelesaian. </p>
-                <a href="tentang.php" class="btn btn-success"><span>Pesan Sekarang</span><i></i></a>
+                <a class="btn btn-success" href="https://web.whatsapp.com/send/?phone=6285339913626&text=Halo%21+Saka+Kontruksi%2C+boleh+saya+konsultasi+dulu%3F&type=phone_number&app_absent=0 Kontruksi, boleh saya konsultasi dulu?">Hubungi kami</a>
                 <ul>
                 </ul>
             </div>

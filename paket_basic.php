@@ -16,7 +16,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <h1 class="text-dark mb-5">
-                    Syaka Desain Konstruksi
+                    PAKET BASIC
                 </h1>
 
                 <form onsubmit="sendMessage()">
@@ -26,7 +26,7 @@
 
                     </div>
                     <div class="mb-3">
-                        <label for="email">Email</label>
+                        <label for="email">Alamat</label>
                         <input type="text" id="email" palaceholder="Email Address" class="form-control shadow-none" required>
 
                     </div>
@@ -47,12 +47,13 @@
             const email = document.getElementById('email').value;
             const message = document.getElementById('message').value;
 
-            const url = "https://web.whatsapp.com/send?phone=6282339299658&text=Hallo%20Admin.%0ASaya%20*" + name + "*%0AEmail%20Saya%20*" + email + "*%0A%0A*" + message + "*";
+            const url = "https://web.whatsapp.com/send?phone=6285339913626&text=Hallo%20Syaka%20Desain%20Konstruksi%0APAKET%20BASIC%0ASaya%20*" + name + "*%0AAlamat%20*" + email + "*%0A%0A*" + message + "*";
 
             window.open(url);
 
         }
     </script>
 </body>
+
 
 </html>

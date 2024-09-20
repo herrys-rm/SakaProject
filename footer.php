@@ -63,7 +63,7 @@
             <!-- Licensing information: https://bootstrapmade.com/license/ -->
             <!-- Purchase the pro version with working PHP/AJAX contact form: [buy-url] -->
             <a href="">@Syaka Desain Konstruksi</a>
-            <p><span>Melayani</span> <strong class="px-1 sitename">dengan </strong> <span>Sepenuh hat</span></p>
+            <p><span>Melayani</span> <strong class="px-1 sitename">dengan </strong> <span>Sepenuh hati</span></p>
         </div>
     </div>
 
