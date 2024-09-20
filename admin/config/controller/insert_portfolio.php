@@ -5,7 +5,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
     $image_title = mysqli_real_escape_string($conn, $_POST['image_title']);
 
     // Proses upload file gambar
-    $target_dir = "../../uploads/";
+    $target_dir = "../../../uploads/";
     $image = basename($_FILES["image"]["name"]);
     $target_file = $target_dir . $image;
     $imageFileType = strtolower(pathinfo($target_file, PATHINFO_EXTENSION));

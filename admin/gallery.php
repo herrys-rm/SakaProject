@@ -95,7 +95,7 @@ $result = $conn->query($sql);
                                 if ($result->num_rows > 0) {
                                     while ($row = $result->fetch_assoc()) {
                                         $image_id = $row['id'];
-                                        $image_path = 'uploads/' . $row['image'];
+                                        $image_path = '../uploads/' . $row['image'];
                                         $image_title = $row['image_title'];
                                         $img_desc = $row['img_desc'];
                                 ?>

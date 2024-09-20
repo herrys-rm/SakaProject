@@ -13,7 +13,7 @@ if ($result && $result->num_rows > 0) {
     $row = $result->fetch_assoc();
     if (!empty($row['logo_image_path'])) {
         // Tambahkan path 'uploads/' ke nama file yang diambil dari database
-        $logo_path = 'uploads/' . $row['logo_image_path'];
+        $logo_path = '../uploads/' . $row['logo_image_path'];
     }
 }
 

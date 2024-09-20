@@ -2,7 +2,7 @@
 require_once '../connection.php'; // File koneksi
 
 if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_FILES['logo_image'])) {
-    $target_dir = "../../uploads/";
+    $target_dir = "../../../uploads/";
     $file_name = basename($_FILES["logo_image"]["name"]);
     $target_file = $target_dir . $file_name;
     $uploadOk = 1;
