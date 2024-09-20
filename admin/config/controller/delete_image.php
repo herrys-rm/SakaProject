@@ -10,7 +10,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST') {
 
     if ($result->num_rows > 0) {
         $row = $result->fetch_assoc();
-        $image_path = '../../uploads/' . $row['image'];
+        $image_path = '../../../uploads/' . $row['image'];
 
         // Hapus file gambar dari direktori
         if (file_exists($image_path)) {
