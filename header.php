@@ -8,12 +8,12 @@ $sql = "SELECT logo_image_path FROM logo ORDER BY id DESC LIMIT 1";
 $result = $conn->query($sql);
 
 // Inisialisasi variabel $logo_path
-$logo_path = 'admin/uploads/placeholder.png'; // Gambar default jika tidak ada logo
+$logo_path = 'uploads/placeholder.png'; // Gambar default jika tidak ada logo
 
 if ($result && $result->num_rows > 0) {
     $row = $result->fetch_assoc();
     if (!empty($row['logo_image_path'])) {
-        $logo_path = 'admin/uploads/' . $row['logo_image_path']; // Path logo terakhir
+        $logo_path = 'uploads/' . $row['logo_image_path']; // Path logo terakhir
     }
 }
 
